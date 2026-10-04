@@ -1,1 +1,11 @@
-[]
+[
+ {
+  "id": "5DGBN",
+  "name": "Mayor",
+  "month": 10,
+  "day": 4,
+  "city": "Markham",
+  "photo": "photos/5DGBN.jpg",
+  "at": "2026-10-04T02:51:27.836334+00:00"
+ }
+]
