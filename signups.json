@@ -70,5 +70,14 @@
   "city": "Toronto",
   "photo": "photos/H2GGR.jpg",
   "at": "2026-10-07T00:25:50.215920+00:00"
+ },
+ {
+  "id": "K7DQH",
+  "name": "Pappy Akins",
+  "month": 10,
+  "day": 6,
+  "city": "Etobicoke",
+  "photo": "photos/K7DQH.jpg",
+  "at": "2026-10-07T02:09:53.545154+00:00"
  }
 ]
