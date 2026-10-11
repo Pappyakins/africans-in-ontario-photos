@@ -79,5 +79,14 @@
   "city": "Toronto",
   "photo": "photos/MBBH9.jpg",
   "at": "2026-10-07T03:37:30.496868+00:00"
+ },
+ {
+  "id": "ECYRP",
+  "name": "Olalekan Bello",
+  "month": 8,
+  "day": 9,
+  "city": "Mississauga",
+  "photo": "photos/ECYRP.jpg",
+  "at": "2026-10-11T20:03:28.734884+00:00"
  }
 ]
